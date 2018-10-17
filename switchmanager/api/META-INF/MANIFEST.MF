@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1436874860838
+Build-Jdk: 1.7.0_80
+Built-By: Administrator
+Bundle-ManifestVersion: 2
+Bundle-Name: switchmanager
+Bundle-SymbolicName: org.opendaylight.controller.switchmanager
+Bundle-Version: 0.7.3.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.opendaylight.controller.switchmanager;uses:="javax.x
+ ml.bind.annotation,org.opendaylight.controller.configuration,org.openda
+ ylight.controller.sal.core,org.opendaylight.controller.sal.utils,org.sl
+ f4j";version="0.7.3.SNAPSHOT"
+Import-Package: org.opendaylight.controller.configuration;version="[0.4,
+ 1)",org.opendaylight.controller.sal.core;version="[0.8,1)",org.opendayl
+ ight.controller.sal.utils;version="[0.8,1)",org.opendaylight.controller
+ .sal.packet;version="[0.8,1)",org.slf4j;version="[1.7,2)",javax.xml.bin
+ d.annotation,org.opendaylight.controller.sal.inventory;version="[0.8,1)
+ "
+Tool: Bnd-2.1.0.20130426-122213

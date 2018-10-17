@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1514343070704
+Build-Jdk: 1.7.0_80
+Built-By: ngnt-ycy
+Bundle-Activator: org.opendaylight.controller.sal.implementation.interna
+ l.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: sal.implementation
+Bundle-SymbolicName: org.opendaylight.controller.sal.implementation
+Bundle-Version: 0.4.4.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.slf4j;version="[1.7,2)",org.opendaylight.controller.
+ sal.core;version="[0.8,1)",org.opendaylight.controller.sal.packet;versi
+ on="[0.8,1)",org.opendaylight.controller.sal.inventory;version="[0.8,1)
+ ",org.opendaylight.controller.sal.flowprogrammer;version="[0.8,1)",org.
+ opendaylight.controller.sal.reader;version="[0.8,1)",org.opendaylight.c
+ ontroller.sal.topology;version="[0.8,1)",org.opendaylight.controller.sa
+ l.action;version="[0.8,1)",org.opendaylight.controller.sal.match;versio
+ n="[0.8,1)",org.opendaylight.controller.sal.utils;version="[0.8,1)",org
+ .apache.felix.dm;version="[3.0,4)",org.eclipse.osgi.framework.console;v
+ ersion="[1.1,2)",org.osgi.framework;version="[1.7,2)",org.apache.common
+ s.lang3.builder;version="[3.1,4)"
+Tool: Bnd-2.1.0.20130426-122213

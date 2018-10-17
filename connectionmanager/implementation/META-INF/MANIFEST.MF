@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1514532682019
+Build-Jdk: 1.7.0_80
+Built-By: ngnt-ycy
+Bundle-Activator: org.opendaylight.controller.connectionmanager.internal
+ .Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: connectionmanager.implementation
+Bundle-SymbolicName: org.opendaylight.controller.connectionmanager.imple
+ mentation
+Bundle-Version: 0.1.4.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.opendaylight.controller.connectionmanager.loadbalanc
+ ed;version="0.1.4.SNAPSHOT"
+Import-Package: org.opendaylight.controller.connectionmanager;version="[
+ 0.1,1)",org.opendaylight.controller.clustering.services;version="[0.5,1
+ )",org.opendaylight.controller.sal.utils;version="[0.8,1)",org.opendayl
+ ight.controller.sal.core;version="[0.8,1)",org.opendaylight.controller.
+ sal.connection;version="[0.1,1)",org.opendaylight.controller.sal.invent
+ ory;version="[0.8,1)",org.eclipse.osgi.framework.console;version="[1.1,
+ 2)",org.osgi.framework;version="[1.7,2)",org.slf4j;version="[1.7,2)",or
+ g.apache.felix.dm;version="[3.0,4)",org.hyperic.sigar;version="[1.6,2)"
+ ,laboratory.controller.efficiency;version="[0.1,1)"
+Tool: Bnd-2.1.0.20130426-122213

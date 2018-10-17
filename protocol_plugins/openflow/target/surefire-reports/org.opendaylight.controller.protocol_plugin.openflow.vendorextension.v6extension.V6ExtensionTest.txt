@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.opendaylight.controller.protocol_plugin.openflow.vendorextension.v6extension.V6ExtensionTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.082 sec - in org.opendaylight.controller.protocol_plugin.openflow.vendorextension.v6extension.V6ExtensionTest
